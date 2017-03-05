@@ -5,6 +5,7 @@
 * [About this booklet](README.md)
 * [The sessions](about-this-booklet.md)
 * [Helpful Files](helpful-files.md)
+* [Tool install instructions](tool-install-instructions.md)
 
 ## Designing and Scoping a Data Science Project
 
@@ -28,7 +29,6 @@
 
 ## References and Reading
 
-* Tool Install Instructions
 * Course Reading LIst
 * Places to look for development datasets
 * Places to get more help
