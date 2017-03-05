@@ -36,4 +36,5 @@
 * [Course Reading LIst](course-reading-list.md)
 * [Places to look for development datasets](places-to-look-for-development-datasets.md)
 * [Places to get more help](places-to-get-more-help.md)
+* [Data science tools](data-science-tools.md)
 
