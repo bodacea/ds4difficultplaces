@@ -1,0 +1,9 @@
+{
+    "gitbook": ">= 3.0.0",
+    "plugins": [
+      "include-codeblock",
+      "echarts"
+    ],
+    "pluginsConfig": {},
+    "title": "Data Science for Difficult Places"
+}
