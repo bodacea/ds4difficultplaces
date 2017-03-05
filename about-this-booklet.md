@@ -1,5 +1,17 @@
 # The Sessions
 
+## About these sessions
+
+First, there are no prerequisites for these sessions except a curiosity to learn about data science and willingness to play with data. Second, the labs are designed to cover most of what you need to talk to data scientists, to specify your project, and to start exploring data science on your own. They’re specifically aimed at the types of issues that you’ll see in the messy strange world of development, humanitarian and social data, and use tools that are free, well-supported and available offline.
+
+This may not be what you need, and that’s fine. If you want to learn about machine learning in depth, or create beautiful Python code, there are many courses for that \(and theData Science Communities and Coursespage has a list of places you might want to start at\). But if you’re looking at social data, and to quote one of my students “can see the data and know what I want to do with it, but I don’t know how to do that”, these sessions might help.
+
+There are a bunch of resources that go with these sessions: they’re all in the reference section at the end of this booklet. 
+
+There are 10 sessions in all, grouped into themes: people \(designing a project, communicating results\), tools, getting data, special data types \(text, GIS, big\) and learning from data \(there are also bonus sessions in the works, as the chats with Quito continue\); the session order is designed to get people doing useful things as quickly as possible, and give breathing space between difficult topics.
+
+Each session concentrates on 5 to 7 concepts within a single topic \(e.g. machine learning\), and plays with apps or code related to that topic. Install instructions for each tool used in a session are in thetool install instructions; pre-session required reading, and post-session reading for fun are in the course reading list, and python code used in or related to the session are in theipython notebooks.
+
 * 1: Designing and Scoping a Data Science Project
 * 2: Python basics
 * 3: Acquiring Data

@@ -8,6 +8,9 @@
 
 ## Designing and Scoping a Data Science Project
 
+* [Data Science Ethics](designing-and-scoping-a-data-science-project/data-science-ethics.md)
+* [Data Science is a Process](designing-and-scoping-a-data-science-project/data-science-is-a-process.md)
+
 ## Python Basics
 
 ## Acquiring Data
