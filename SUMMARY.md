@@ -10,6 +10,7 @@
 
 * [Data Science Ethics](designing-and-scoping-a-data-science-project/data-science-ethics.md)
 * [Data Science is a Process](designing-and-scoping-a-data-science-project/data-science-is-a-process.md)
+* [Writing a problem statement](designing-and-scoping-a-data-science-project/writing-a-problem-statement.md)
 
 ## Python Basics
 
