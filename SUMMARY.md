@@ -4,6 +4,7 @@
 
 * [About this booklet](README.md)
 * [The sessions](about-this-booklet.md)
+* [Course materials](course-materials.md)
 
 ## Designing and Scoping a Data Science Project
 
