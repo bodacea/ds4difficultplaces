@@ -1,44 +1,31 @@
-# Course Reading List
+# Reading Lists
 
-# Data Science for Beginners Reading Lists
+Reading lists for these sessions. 
 
-Reading lists for these sessions:
-
-* 1: Designing a data science project
-* 2: Python basics
-* 3: Acquiring data
-* 4: Communicating results
-* 5: Cleaning and Exploring Data
-* 6: Machine learning
-* 7: Handling text data
-* 8: Handling geospatial data
-* 9: Learning relationships from data
-* 10: Handling big data
-
-If it's "Required", you'll get most out of the course if you read this before the class.  
-If it's "Optional", it'll help you understand in more depth, but you'll be fine in the class without it. If it's "Deeper", you don't need it for the class, but it will help you get deeper into the class subject if you get really interested in it.
+* If it's "Required", you'll get most out of the course if you read this before the class.
+* If it's "Optional", it'll help you understand in more depth, but you'll be fine in the class without it. If it's "Deeper", you don't need it for the class, but it will help you get deeper into the class subject if you get really interested in it.
 
 Highly recommended: get a[Safari Books online](https://www.google.com/url?q=https://www.safaribooksonline.com&sa=D&ust=1463755129255000&usg=AFQjCNHdtjFJjVlbj3d7_LsRIF5cxAX4wQ)subscription; there are hundreds of data science books in there!
 
 ## Session 1: Designing a data science project
 
-### Required \(read before the session\)  
+### Required \(read before the session\)
 
 * Data science project sites \(look at the types of questions being asked in these\):
 * * [Kaggle](https://www.google.com/url?q=https://www.kaggle.com/competitions&sa=D&ust=1463755129263000&usg=AFQjCNGAnprnZUJTdSxBnevRimX74axvqQ)
-     - online datascience competitions
+    * online datascience competitions
   * [Driven Data](https://www.google.com/url?q=http://www.drivendata.org/&sa=D&ust=1463755129264000&usg=AFQjCNH2wb5foxVzhg7dcTllHMgbQlOrAA)
-      - social good datascience competitions
+    * social good datascience competitions
   * [Innocentive](https://www.google.com/url?q=https://www.innocentive.com/ar/challenge/browse&sa=D&ust=1463755129264000&usg=AFQjCNEXuN7UFHmCY1j33iO_qu0dH7O7Rg)
-     - some datascience challenges
+    * some datascience challenges
   * [CrowdAnalytix](https://www.google.com/url?q=https://www.crowdanalytix.com/community&sa=D&ust=1463755129265000&usg=AFQjCNGsQ6k4AGhUbe7O5SIi4iwN9vZNKQ)
-     - business datascience competitions
+    * business datascience competitions
   * [TunedIt](https://www.google.com/url?q=http://tunedit.org/challenges&sa=D&ust=1463755129265000&usg=AFQjCNE22_SiFBkqnbvx2jA1PI-hJcSxhw)
-     - scientific/industrial datascience challenges
+    * scientific/industrial datascience challenges
   * [DataLook](https://www.google.com/url?q=http://datalook.io/&sa=D&ust=1463755129266000&usg=AFQjCNGS76a8C56pmN58PVyzcslW1MSZSg)
     : Repository of data-driven projects for social good
-
 * Data science project design and process:
+
 * * Max Shron, “
     [Thinking with Data](https://www.google.com/url?q=https://vimeo.com/98768831&sa=D&ust=1463755129267000&usg=AFQjCNGDkJkZb2d8l9VfHOpPqDQ7tM5jWg)
     ”, Vimeo, 2014
@@ -47,10 +34,10 @@ Deeper: the data science process:
 
 * $
   [Doing Data Science](https://www.google.com/url?q=http://shop.oreilly.com/product/0636920028529.do&sa=D&ust=1463755129268000&usg=AFQjCNGURiTgvy8_ZT5-m2gjAYtKTE25xA)
-   by Cathy O’Neill and Rachel Schutt - a good introduction to what data scientists actually do \(rather than just the theory of what they do\). Plus Cathy is a New Yorker and just awesome.
+   by Cathy O’Neill and Rachel Schutt - a good introduction to what data scientists actually do \(rather than just the theory of what they do\). Plus Cathy is a New Yorker and just awesome.
 * [http://columbiadatascience.com](https://www.google.com/url?q=http://columbiadatascience.com/&sa=D&ust=1463755129269000&usg=AFQjCNGE-MvZzM_aNf-2_XprytL7pj8N0g)
   &lt;
-  - Cathy O'Neill's Columbia course blog
+  * Cathy O'Neill's Columbia course blog
 * Jason Brownlee,
   [How to work through a problem like a data scientist](https://www.google.com/url?q=http://machinelearningmastery.com/how-to-work-through-a-problem-like-a-data-scientist/&sa=D&ust=1463755129269000&usg=AFQjCNGux92N3ZFN8b41pnw6gWdQqk0iXg)
   , Machine Learning Mastery blogpost
@@ -73,13 +60,14 @@ Deeper: data science project design:
 * $ Carl Shan et al. “
   [The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists](https://www.google.com/url?q=http://www.thedatasciencehandbook.com&sa=D&ust=1463755129274000&usg=AFQjCNGqltBTojYhMRXOy7ts3tsp3nFy8Q)
   ”
-* Jeff Leek,
-  [Data science done well looks too easy - and that is a big problem for data scientists](https://www.google.com/url?q=http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/&sa=D&ust=1463755129274000&usg=AFQjCNEd19dr4SMYZFOXrNYe_Eb0zMbMNQ)
+* Jeff Leek,  
+  [Data science done well looks too easy - and that is a big problem for data scientists](https://www.google.com/url?q=http://simplystatistics.org/2015/03/17/data-science-done-well-looks-easy-and-that-is-a-big-problem-for-data-scientists/&sa=D&ust=1463755129274000&usg=AFQjCNEd19dr4SMYZFOXrNYe_Eb0zMbMNQ)  
   , SimplyStats blogpost
 
-* Harris et al, “
-  [Analysing the analysers, an introspective survey of data scientists and their work](https://www.google.com/url?q=http://shop.oreilly.com/product/0636920029014.do&sa=D&ust=1463755129275000&usg=AFQjCNG7_uuXHkWWvEFAx56ys5zGqymtSg)
+* Harris et al, “  
+  [Analysing the analysers, an introspective survey of data scientists and their work](https://www.google.com/url?q=http://shop.oreilly.com/product/0636920029014.do&sa=D&ust=1463755129275000&usg=AFQjCNG7_uuXHkWWvEFAx56ys5zGqymtSg)  
   ”, O’Reilly
+
 * Hilary Mason et al, “
   [Data Driven - Creating a Data Culture](https://www.google.com/url?q=http://www.oreilly.com/data/free/data-driven.csp&sa=D&ust=1463755129276000&usg=AFQjCNHPAN_JGfJJSJZToimEm1zqn4CzoQ)
   ”, O’Reilly \(free\)
@@ -105,7 +93,7 @@ Deeper: examples of data science for social good:
   ”, blogpost, Let them talk, 2013
 * James West et al, “
   [We Are Making Ebola Outbreaks Worse by Cutting Down Forests](https://www.google.com/url?q=http://www.motherjones.com/environment/2014/07/we-are-making-ebola-worse&sa=D&ust=1463755129396000&usg=AFQjCNGHNWOXTkDbUHpdL-wpXQAVO_bFlg)
-  ”,  Mother Jones, 2014
+  ”,  Mother Jones, 2014
 * Direct Relief, “
   [How Big Data Analysis Guides Hurricane Sandy Response](https://www.google.com/url?q=https://www.youtube.com/watch?v%3DRYu6rzzbQFM&sa=D&ust=1463755129397000&usg=AFQjCNHPdz_0RTMwldnqhvNyHKa6MmRO9w)
   ”, YouTube, 2013
@@ -120,9 +108,9 @@ Deeper: examples of data science for social good:
 * “Food Inspection Forecasting - Optimizing Inspections with Analytics” \(
   [http://bit.ly/1Iy0uG6](https://www.google.com/url?q=http://bit.ly/1Iy0uG6&sa=D&ust=1463755129399000&usg=AFQjCNGB7pcgNTjlvZYOI7WaHecMRgKlaA)
   ,
-  [ http://bit.ly/1JXc0I5](https://www.google.com/url?q=http://bit.ly/1JXc0I5&sa=D&ust=1463755129400000&usg=AFQjCNH-0y_s7uci2bGLMtF76Su1U5lsRQ)
+  [ http://bit.ly/1JXc0I5](https://www.google.com/url?q=http://bit.ly/1JXc0I5&sa=D&ust=1463755129400000&usg=AFQjCNH-0y_s7uci2bGLMtF76Su1U5lsRQ)
   \)
-* Madaio, et al.  "
+* Madaio, et al.  "
   [Identifying and Prioritizing Fire Inspections: A Case Study of Predicting Fire Risk in Atlanta](https://www.google.com/url?q=https://cdn1.topi.com/uploads/public_events/1250/files/97eb8a61ff10e45776bfa44a3ae8b000/GI_Madaio_23.pdf&sa=D&ust=1463755129401000&usg=AFQjCNGPEeifsjAOXRhIF95a-bJEVz5XAQ)
   ", Bloomberg Data for Good conference, 2015
 * Eddie Copeland, "
@@ -134,11 +122,12 @@ Deeper: examples of data science for social good:
 * Enigma, “
   [Smoke Signals - Do you have a Smoke Alarm?](https://www.google.com/url?q=http://labs.enigma.io/smoke-signals&sa=D&ust=1463755129403000&usg=AFQjCNGmQjyzmq4-0OxuHvgeJEcHL30rzA)
   ”, website
-* Fahmy et al., "
-  [Toward a Safer City: Sexual Harassment in Greater Cairo: Effectiveness of Crowdsourced Data](https://www.google.com/url?q=http://bit.ly/1ZDEGhJ&sa=D&ust=1463755129403000&usg=AFQjCNFAyLeE04dymlG9JI7eMC4oiKmKTA)
+* Fahmy et al., "  
+  [Toward a Safer City: Sexual Harassment in Greater Cairo: Effectiveness of Crowdsourced Data](https://www.google.com/url?q=http://bit.ly/1ZDEGhJ&sa=D&ust=1463755129403000&usg=AFQjCNFAyLeE04dymlG9JI7eMC4oiKmKTA)  
   ", HarassMap report,
 
   2014
+
 * Brian Abelson et al, "
   [Targeting direct cash transfers to the extremely poor](https://www.google.com/url?q=http://bit.ly/1SoumrV&sa=D&ust=1463755129404000&usg=AFQjCNG2vd5xXF9JeVtM49eNeCBPJWlVCw)
   ", SIGKDD, 2014.
@@ -167,7 +156,7 @@ Deeper: other data science examples:
   [The Fallen of World War II](https://www.google.com/url?q=http://www.fallen.io/ww2/&sa=D&ust=1463755129411000&usg=AFQjCNFRTMhh9BoxWEm0JJ2Cp9OEooRqDA)
   , 2015
 * [Why TFL stopped people walking up the escalators](https://www.google.com/url?q=http://www.theguardian.com/uk-news/2016/jan/16/the-tube-at-a-standstill-why-tfl-stopped-people-walking-up-the-escalators&sa=D&ust=1463755129411000&usg=AFQjCNF1SQd6DuJtNclHrznkbZF3ouxvRw)
-   \(didn’t need data to do this analysis; did need data to verify it\)
+   \(didn’t need data to do this analysis; did need data to verify it\)
 * [How a lone hacker shredded the myth of crowdsourcing](https://www.google.com/url?q=https://medium.com/backchannel/how-a-lone-hacker-shredded-the-myth-of-crowdsourcing-d9d0534f1731%23.8ajjm4sdx&sa=D&ust=1463755129412000&usg=AFQjCNHNhfB8Zy-gm05-SdI2ARFKuF2UGA)
   , Medium
 * Sarah Frostenson, “
@@ -188,7 +177,7 @@ Deeper into data ethics:
 
 * [Responsible Data Forum](https://www.google.com/url?q=https://responsibledata.io&sa=D&ust=1463755129417000&usg=AFQjCNHdF2_HoIgATECiUGiudB-qJGjZBg)
 * [Discussion on risks and mitigations of releasing data](https://www.google.com/url?q=https://responsibledata.io/summary-of-our-discussion-on-the-risks-and-mitigations-of-releasing-data/&sa=D&ust=1463755129417000&usg=AFQjCNEDyUOw-rfy_9obsjopMhHOFQB4Tw)
-   - Sara-Jayne Terp
+  * Sara-Jayne Terp
 
 ## Session: Python basics
 
@@ -200,20 +189,20 @@ Optional: tool installs:
 Deeper into the basics of Python:
 
 * [learn python the hard way](https://www.google.com/url?q=http://learnpythonthehardway.org/book/&sa=D&ust=1463755129420000&usg=AFQjCNFHPdgG-5E9D2-IpRD3mFQMcX52lA)
-   \(online book\)
+   \(online book\)
 * [Writing idiomatic Python](https://www.google.com/url?q=http://www.jeffknupp.com/writing-idiomatic-python-ebook/&sa=D&ust=1463755129421000&usg=AFQjCNHV6PndU8LWu7y5VomlQxbV-06qDA)
 * [IcanHaz python courses list](https://www.google.com/url?q=http://icanhazdatascience.blogspot.com/2013/03/learning-python.html&sa=D&ust=1463755129422000&usg=AFQjCNEw_VcluS03RnekBLtaTaj8fCPcqw)
 * [Setting up Sublime Text 3 for full stack python development](https://www.google.com/url?q=https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/&sa=D&ust=1463755129422000&usg=AFQjCNH9qEp8QA8fJsVPANC7s2Zqh761ZA)
   &lt;
-  - optimising your SublimeText editor to highlight Python style errors.
+  * optimising your SublimeText editor to highlight Python style errors.
 * [Python course](https://www.google.com/url?q=http://www.python-course.eu/index.php&sa=D&ust=1463755129423000&usg=AFQjCNFRMlDICzxcBqEvNvkUtOhoiPqXrg)
   &lt;
-  - academic course on Python, but has lots of useful resources
+  * academic course on Python, but has lots of useful resources
 
 Deeper into coding for data science:
 
 * [Programming for Data Science the Polyglot approach: Python + R + SQL](https://www.google.com/url?q=http://www.datasciencecentral.com/profiles/blogs/programming-for-data-science-the-polyglot-approach-python-r-sql&sa=D&ust=1463755129424000&usg=AFQjCNHjlCs5v2-NpU7eiP-g4XDltqNlhg)
-  , Ajit Jaokar, Data Science Central
+  , Ajit Jaokar, Data Science Central
 * $ “
   [Python data science handbook](https://www.google.com/url?q=http://shop.oreilly.com/product/0636920034919.do?sortby%3DpublicationDate&sa=D&ust=1463755129425000&usg=AFQjCNFQriBQC1UPQgWHlD7A0J4mWJhbpg)
   ”, Jake VanderPlas, O’Reilly book \(aka PDS\)
@@ -222,14 +211,14 @@ Deeper into coding for data science:
 * [Threes ways for a nicer output](https://www.google.com/url?q=http://www.python-course.eu/python3_formatted_output.php&sa=D&ust=1463755129426000&usg=AFQjCNFwKfODppXqHzj7_RwvQhwEyaPi8w)
   , Python3 tutorial 
   &lt;
-  - for more complex formatting
+  * for more complex formatting
 * [Standard Regular Expression Strings](https://www.google.com/url?q=https://www.websense.com/content/support/library/web/hosted/dsc_admin/wildcard_regex.aspx&sa=D&ust=1463755129427000&usg=AFQjCNFcPeoYjR7ZAr5pKPrReTq_6Or26g)
   , Raytheon Websense
 * [Colabatory tool](https://www.google.com/url?q=https://plus.google.com/app/basic/stream/z133vvygwpzxc3co404cchobnq3wzl25jik&sa=D&ust=1463755129427000&usg=AFQjCNFrIfbVA9Feoyd6h7fT-ZQBRGl1yQ)
   &lt;
-  - host iPython notebooks on google drive
+  * host iPython notebooks on google drive
 * [Kalman and Bayesian Filters in Python](https://www.google.com/url?q=http://nbviewer.ipython.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb&sa=D&ust=1463755129428000&usg=AFQjCNHWE2r4RjK-Hm6eSXOTrpQZLvgZmA)
-   - example of iPython notebooks used to write a book
+  * example of iPython notebooks used to write a book
 * [Learn how to write good code](https://www.google.com/url?q=http://sevenstrokes.net/learn-how-write-good-code&sa=D&ust=1463755129429000&usg=AFQjCNFv0M_2R9iGFuCa6R_d-I-FLY38Pw)
   , Dion Moult, SevenStrokes Blog
 
@@ -239,7 +228,7 @@ Deeper into acquiring data:
 
 * [Find my phone apps lead to wrong home](https://www.google.com/url?q=http://fusion.net/story/214995/find-my-phone-apps-lead-to-wrong-home/?utm_source%3Dfacebook%26utm_medium%3Dsocial%26utm_campaign%3Dwired&sa=D&ust=1463755129430000&usg=AFQjCNGMyKqcHgxnC-DtP7KDcBRJkMmI_g)
   &lt;
-  - warning about trusting your tech!
+  * warning about trusting your tech!
 * [http://stackoverflow.com/questions/26857767/retrieve-post-of-a-facebook-page-using-facebook-api-python](https://www.google.com/url?q=http://stackoverflow.com/questions/26857767/retrieve-post-of-a-facebook-page-using-facebook-api-python&sa=D&ust=1463755129431000&usg=AFQjCNGKzBbAZ9QqfVlG9tbYnlz3Uo0bbg)
 * [Easy web scraping with python](https://www.google.com/url?q=http://blog.miguelgrinberg.com/post/easy-web-scraping-with-python&sa=D&ust=1463755129432000&usg=AFQjCNFuZ7Dfh06W5TrxBL8gifyL122x2A)
   , Miguel Grinberg, blogpost
@@ -270,7 +259,7 @@ Deeper into acquiring data:
   * [junk charts](https://www.google.com/url?q=http://junkcharts.typepad.com&sa=D&ust=1463755129439000&usg=AFQjCNGjh10d77XKtTwolJqtfzT59AONLA)
     ,
   * [visual.ly](https://www.google.com/url?q=http://visual.ly/&sa=D&ust=1463755129439000&usg=AFQjCNEgppkI6o4QOqKTQ4UZ7RUUsqbc_Q)
-     blog,
+     blog,
   * Tableau gallery:
     [https://www.tableau.com/public/gallery](https://www.google.com/url?q=https://www.tableau.com/public/gallery&sa=D&ust=1463755129440000&usg=AFQjCNE__tGqUVU9lyiaGwqaUnRoA7NTpA)
   * D3 gallery:
@@ -291,7 +280,7 @@ Deeper into visualisation:
   ” by Stephen Few
 * Malcolm Maclean,
   [D3 Tips and Tricks](https://www.google.com/url?q=https://leanpub.com/D3-Tips-and-Tricks&sa=D&ust=1463755129445000&usg=AFQjCNEbBZub902A0FKXxpl9sFltHm071w)
-  , ebook \(also
+  , ebook \(also
   [webpage](https://www.google.com/url?q=http://www.d3noob.org&sa=D&ust=1463755129446000&usg=AFQjCNG1ymWxyTig47X6Y4c2LHKmsTF_KQ)
   \)
 * [The 5 most influential data visualisations of all time](https://www.google.com/url?q=http://www.tableau.com/top-5-most-influential-data-visualizations&sa=D&ust=1463755129446000&usg=AFQjCNH0rNA1gh9Eongiie6u2rUP86nRyQ)
@@ -302,7 +291,7 @@ Deeper into visualisation:
 * [Data vizualisation and human rights](https://www.google.com/url?q=http://visualizingrights.org&sa=D&ust=1463755129447000&usg=AFQjCNEr0K-DF58RKwMnROZd9s7nFNyF8A)
   , website 
   &lt;
-  - links to resources
+  * links to resources
 * [www.creativebloq.com/how-design-better-data-visualisations-8134175](https://www.google.com/url?q=http://www.creativebloq.com/how-design-better-data-visualisations-8134175&sa=D&ust=1463755129448000&usg=AFQjCNE3Gltt32UNiKR7wEsQTr73GciGEA)
 * [fivethirtyeight.com](https://www.google.com/url?q=http://fivethirtyeight.com/&sa=D&ust=1463755129448000&usg=AFQjCNEjws0_T-UMvVdwYyTgceGvmtZqSA)
 * Nathan Yao “Visualise this!”
@@ -314,7 +303,7 @@ Deeper into visualisation:
   [Interactive data visualisation for the web](https://www.google.com/url?q=http://chimera.labs.oreilly.com/books/1230000000345&sa=D&ust=1463755129451000&usg=AFQjCNE_B2AlFSpKxmv46D2njW_g8E426w)
   , online book 
   &lt;
-  - intro to D3
+  * intro to D3
 * [stacked bar charts in Excel](https://www.google.com/url?q=http://peltiertech.com/clustered-stacked-column-bar-charts/&sa=D&ust=1463755129451000&usg=AFQjCNEpgLmhyanJVfoeIIToKLsK3o6kqQ)
 * [Demystifying User Experience](https://www.google.com/url?q=http://www.slideshare.net/ThoughtWorks/introduction-to-user-experience-mintro-to-user-experience-mike-biggs&sa=D&ust=1463755129452000&usg=AFQjCNFKjODqSPG41BLS_pKVDV7k9zdBCg)
   , Mike Biggs
@@ -374,10 +363,11 @@ Deeper into Machine learning:
   ” by Joel Grus - a practical introduction to how common learning algorithms work, so they’re not just an “R” or scikit-learn call.
 * Brandon Rohrer,
   [What types of questions can data science answer?](https://www.google.com/url?q=http://blogs.technet.com/b/machinelearning/archive/2015/08/27/what-types-of-questions-can-data-science-answer.aspx&sa=D&ust=1463755129466000&usg=AFQjCNENNHo5H6rDZkl79YZ8ayM_lTUFvQ)
-* [Learning from the best](https://www.google.com/url?q=http://blog.kaggle.com/2014/08/01/learning-from-the-best/&sa=D&ust=1463755129466000&usg=AFQjCNHhAAIjuWUpoj7CzePPS3MaPRwCJA)
+* [Learning from the best](https://www.google.com/url?q=http://blog.kaggle.com/2014/08/01/learning-from-the-best/&sa=D&ust=1463755129466000&usg=AFQjCNHhAAIjuWUpoj7CzePPS3MaPRwCJA)  
   , David Kofoed Wind, Kaggle blogpost, 2014
 
 * [Scikit-learn algorithm cheat sheet](https://www.google.com/url?q=http://peekaboo-vision.blogspot.com/2013/01/machine-learning-cheat-sheet-for-scikit.html&sa=D&ust=1463755129467000&usg=AFQjCNGLW-mIIIbAg9uPRe3hkiXg9NSYTQ)
+
 * [http://www.ibm.com/developerworks/library/os-weka2/](https://www.google.com/url?q=http://www.ibm.com/developerworks/library/os-weka2/&sa=D&ust=1463755129468000&usg=AFQjCNFTG1n6FcJco0dDU7_hzQ85ftah5A)
 * [http://en.wikipedia.org/wiki/K-nearest\_neighbors\_algorithm](https://www.google.com/url?q=http://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm&sa=D&ust=1463755129469000&usg=AFQjCNGFTsvkHcJWQN2pR8QyCn9YCchaog)
 * [http://blog.yhathq.com/posts/logistic-regression-and-python.html](https://www.google.com/url?q=http://blog.yhathq.com/posts/logistic-regression-and-python.html&sa=D&ust=1463755129469000&usg=AFQjCNE8Vlj9v_nW8nOyyBVRPIRpkMGhuw)
@@ -386,7 +376,7 @@ Deeper into Machine learning:
 * en.wikipedia.org/wiki/Social\_network\_analysis\_software
 * [“An empirical classification of supervised learning algorithms”](https://www.google.com/url?q=http://www.niculescu-mizil.org/papers/empirical.icml06.pdf&sa=D&ust=1463755129472000&usg=AFQjCNGreSSuyiVWN7EU8C5SEgs2l_ZG5Q)
 * [Can Amazon make machine learning more accessible](https://www.google.com/url?q=http://www.datanami.com/2015/04/13/can-amazon-make-machine-learning-more-accessible/&sa=D&ust=1463755129473000&usg=AFQjCNGjqqr8OPydsxh0T64iyXp6YYXaow)
-  , Datanami, 2015 
+  , Datanami, 2015 
 * [Quora discussion on ML books and materials](https://www.google.com/url?q=https://www.quora.com/How-do-I-learn-machine-learning-1&sa=D&ust=1463755129474000&usg=AFQjCNH7Q_3GV_M6NbtE2GHl3uMgZwCeaQ)
 * Li Deng et al,
   [Deep learning methods and applications](https://www.google.com/url?q=http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf&sa=D&ust=1463755129475000&usg=AFQjCNENdBVHTMRx1yZGr4hCCC_rKU1T9g)
@@ -402,13 +392,12 @@ Deeper into handling text data:
 * “
   [Real-time local Twitter trends - Trendsmap](https://www.google.com/url?q=http://trendsmap.com&sa=D&ust=1463755129478000&usg=AFQjCNHREVmwffWwWWUiDgalYTEnad0YCQ)
   ”
-* 
-## Session: Handling geospatial data
+* ## Session: Handling geospatial data
 
 Required:
 
 * [https://medium.com/@joshuatauberer/how-that-map-you-saw-on-538-under-represents-minorities-by-half-and-other-reasons-to-consider-a-4a98f89cbbb1\#.lztorl60f](https://www.google.com/url?q=https://medium.com/@joshuatauberer/how-that-map-you-saw-on-538-under-represents-minorities-by-half-and-other-reasons-to-consider-a-4a98f89cbbb1%23.lztorl60f&sa=D&ust=1463755129479000&usg=AFQjCNGj4cgCH1erR717j0GDpjO_XuUtPw)
-   \(how maps lie about demographics\)
+   \(how maps lie about demographics\)
 
 Deeper into GIS data:
 
@@ -425,9 +414,9 @@ Deeper into GIS data:
 * [Geographical Precision](https://www.google.com/url?q=http://iatistandard.org/201/codelists/GeographicalPrecision/&sa=D&ust=1463755129484000&usg=AFQjCNFH1GbDj-Cs-t-jpP8dBigJWa8_2w)
   , The IATI Standard 
   &lt;
-  - standard codes for “I’m not quite sure where this is”
+  * standard codes for “I’m not quite sure where this is”
 * [uMap](https://www.google.com/url?q=http://umap.openstreetmap.fr/en/&sa=D&ust=1463755129485000&usg=AFQjCNFbfSRrRqunz-1a3qVJ1xfYltgX6g)
-   - creating OpenStreetMap layers
+  * creating OpenStreetMap layers
 * [download OpenStreetMap data using QGIS](https://www.google.com/url?q=http://www.qgistutorials.com/en/docs/downloading_osm_data.html&sa=D&ust=1463755129485000&usg=AFQjCNFG_jKdwl86petWNsmfX1Xh-xutIA)
 
 ## Session: Learning relationships from data
@@ -476,14 +465,16 @@ Deeper into statistics:
 ## General / Unsorted
 
 * “The Information: A History, A Theory, A Flood” by James Gleick
-* “The Incurable Data Geek”,
-  [ www.samiinkinen.com](https://www.google.com/url?q=http://www.samiinkinen.com&sa=D&ust=1463755129495000&usg=AFQjCNEkgXHiaDuKIRkxgCE99YBLh-3bYA)
+* “The Incurable Data Geek”,  
+  [ www.samiinkinen.com](https://www.google.com/url?q=http://www.samiinkinen.com&sa=D&ust=1463755129495000&usg=AFQjCNEkgXHiaDuKIRkxgCE99YBLh-3bYA)
 
-* [Opportunities in Data Journalism](https://www.google.com/url?q=http://kmpnaivasha.ujuzi.org/opportunities-in-data-journalism/&sa=D&ust=1463755129496000&usg=AFQjCNH_Q4Qf32g-Ak7-tg54RDi3HIp4nA)
+* [Opportunities in Data Journalism](https://www.google.com/url?q=http://kmpnaivasha.ujuzi.org/opportunities-in-data-journalism/&sa=D&ust=1463755129496000&usg=AFQjCNH_Q4Qf32g-Ak7-tg54RDi3HIp4nA)  
   , KMP Naivasha Training
+
 * Data Scientist Interview Questions \| Glassdoor
 
 * Humanitarian data scientist MOOC reference list
+
 * Wes McKinney “Python for Data Analysis”
 * [Interoperability, Browser & Cross Platform Testing](https://www.google.com/url?q=https://dev.windows.com/en-us/microsoft-edge/tools/&sa=D&ust=1463755129498000&usg=AFQjCNFWuPIGkKV2kVHXxkYVnyp4pv22yg)
   , Microsoft
