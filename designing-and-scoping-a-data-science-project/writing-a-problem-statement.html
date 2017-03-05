@@ -1,0 +1,481 @@
+
+<!DOCTYPE HTML>
+<html lang="" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>Writing a problem statement · Data Science for Difficult Places</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.2">
+        
+        
+        
+    
+    <link rel="stylesheet" href="../gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="../gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="../gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="../gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="../tool-install-instructions.html" />
+    
+    
+    <link rel="prev" href="data-science-is-a-process.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Type to search" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        <li class="header">Introduction</li>
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="../">
+            
+                <a href="../">
+            
+                    
+                    About this booklet
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="../about-this-booklet.html">
+            
+                <a href="../about-this-booklet.html">
+            
+                    
+                    The sessions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="../course-materials.html">
+            
+                <a href="../course-materials.html">
+            
+                    
+                    Course materials
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Designing and Scoping a Data Science Project</li>
+        
+        
+    
+        <li class="chapter " data-level="2.1" data-path="data-science-ethics.html">
+            
+                <a href="data-science-ethics.html">
+            
+                    
+                    Data Science Ethics
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.2" data-path="data-science-is-a-process.html">
+            
+                <a href="data-science-is-a-process.html">
+            
+                    
+                    Data Science is a Process
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="2.3" data-path="writing-a-problem-statement.html">
+            
+                <a href="writing-a-problem-statement.html">
+            
+                    
+                    Writing a problem statement
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Python Basics</li>
+        
+        
+    
+
+    
+        
+        <li class="header">Acquiring Data</li>
+        
+        
+    
+
+    
+        
+        <li class="header">Communicating Results</li>
+        
+        
+    
+
+    
+        
+        <li class="header">Cleaning and Exploring Data</li>
+        
+        
+    
+
+    
+        
+        <li class="header">Machine Learning</li>
+        
+        
+    
+
+    
+        
+        <li class="header">Text Data</li>
+        
+        
+    
+
+    
+        
+        <li class="header">Geospatial Data</li>
+        
+        
+    
+
+    
+        
+        <li class="header">Learning Relationships</li>
+        
+        
+    
+
+    
+        
+        <li class="header">Handling Bigger Data</li>
+        
+        
+    
+
+    
+        
+        <li class="header">References and Reading</li>
+        
+        
+    
+        <li class="chapter " data-level="12.1" data-path="../tool-install-instructions.html">
+            
+                <a href="../tool-install-instructions.html">
+            
+                    
+                    Tool install instructions
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="12.2" data-path="../course-reading-list.html">
+            
+                <a href="../course-reading-list.html">
+            
+                    
+                    Course Reading LIst
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="12.3" data-path="../places-to-look-for-development-datasets.html">
+            
+                <a href="../places-to-look-for-development-datasets.html">
+            
+                    
+                    Places to look for development datasets
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="12.4" data-path="../places-to-get-more-help.html">
+            
+                <a href="../places-to-get-more-help.html">
+            
+                    
+                    Places to get more help
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="12.5" data-path="../data-science-tools.html">
+            
+                <a href="../data-science-tools.html">
+            
+                    
+                    Data science tools
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Published with GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href=".." >Writing a problem statement</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="writing-a-problem-statement">Writing a problem statement</h1>
+<p>Data work can sometimes seem meaningless. You go through all the training on cool machine learning techniques, find some cool datasets to play with, run a couple of algorithms on them, and then. Nothing. That sinking feeling of &#x201C;well, that was useless&#x201D;.</p>
+<p>I&#x2019;m not discouraging play. Play is how we learn how to do things, where we can find ideas and connect more deeply to our data. It can be a really useful part of the &#x201C;explore the data&#x201D; part of data science, and there are many useful playful design activities that can help with &#x201C;ask an interesting question&#x201D;. But data preparation and analysis takes time and is full of rabbitholes:</p>
+<p>interesting but time-consuming things that aren&#x2019;t linked to a positive action or change in the world.</p>
+<p>One thing that helps a lot is to have a rough plan: something that can guide you as you work through a data science project. Making a plan for data science has much in common with making plans forLeananddesign thinking: you&#x2019;re putting in effort, so you need to be:</p>
+<ul>
+<li>focused on the change you want to make in the world, e.g. solve a problem or change people&#x2019;s minds (there&#x2019;s no point doing analysis if you don&#x2019;t do anything with it),</li>
+<li>pragmatic about the work you need to do (sometimes the answer is a piece of paper, e.g. much simpler than the beautiful concept you had in your mind, but much more likely to be used in the current context) and</li>
+<li>realistic about the problem you&#x2019;re trying to solve and the resources you have around to do that (e.g. use what works for you, not an unachievable &#x2018;best&#x2019; technology).</li>
+</ul>
+<p>I likeMax Shron&#x2019;s CoNVOfor planning small data science projects. In my dayjob, I work a lot with Lean Enterprise and Design Thinking techniques to achieve similar results at scale, but at the least you should have an A4 piece of paper somewhere with this on it, to refer back to:</p>
+<ul>
+<li>Context: who needs this work, and what are they doing it for?</li>
+<li>Needs: what are you trying to fix?</li>
+<li>Vision: what do you expect your final result to look like?</li>
+<li>Outcome: how do you get your results to the people who need them? What happens next?</li>
+</ul>
+<p>The other question you&#x2019;re going to want to ask is &#x201C;is it worth me doing this work&#x201D;. It&#x2019;s okay to say &#x201C;yes, because I learn from it&#x201D;, or &#x201C;it&#x2019;s fun&#x201D;, but data science is work, and you don&#x2019;t want to feel like you put in a ton of effort and late nights only to realise that effort was wasted. I like<br> theDrivenData competition guidelinesfor helping with this thinking:</p>
+<ul>
+<li>Impact:&#x201C;... clear win for the organisation in terms of effective planning, resources saved or people served... good story around how they generate social impact...&#x201D;</li>
+<li>Challenge:&#x201C;... challenging enough for a rich competition...&#x201D;</li>
+<li>Feasibility:&#x201C;....the right kind of data to answer the question at hand... does it have enough signal to be useful?...&#x201D;</li>
+<li>Privacy:&#x201C;... can answer this question while protecting the privacy of individuals in the dataset and the operational privacy of an organisation...&#x201D;</li>
+</ul>
+<p>I haven&#x2019;t yet mentioned the thing that your work will focus on: the &#x201C;interesting question(s)&#x201D; that you&#x2019;re trying to answer. There are several contexts you might find yourself in here, from a business team bringing you a well-defined question (at which point you start with the &#x201C;what is the question you&#x2019;re really trying to answer here&#x201D; discussion), to having complete freedom over the questions you&#x2019;re asking and the ways they could be turned into action.</p>
+<p>One way to get better at asking good questions is to see what other people ask. Look at your subject area: find other projects and questions in it, and see how they&#x2019;re asked (and answered). Look at existing data science projects for inspiration, e.g.Kaggle(and theirUseCase list),DrivenData,DataKindand the projects listed in thecourse reading list, then design your questions. Asking questions about your questions can help here, e.g.:</p>
+<ul>
+<li>Is the question concrete enough? Is it solving a real problem, or just a symptom of that problem? (e.g. &#x201C;what are the barriers to people engaging with us&#x201D; vs &#x201C;how can we get  more people to call&#x201D;)</li>
+<li>Can you translate the question into an experiment? g. can you ask something like &#x201C;I believe people have more phones than toilets&#x201D; and start proving (or, more generally, disproving) that.</li>
+<li>Is it actionable? And what actions will be taken given the answer?</li>
+<li>What data is needed to do the analysis? At this point, datasets could be anything - tables, images, maps, sensor feeds; anything. Be aware that although data access can limit what you can do, data is just a support here, and focusing on the question can help you think about other ways that you might be able to answer it.</li>
+</ul>
+<p>As you do this, you&#x2019;ll find yourself questioning the meaning of many of the components of your original question: I have alonger blogposton that, but this is where the plan becomes useful: instead of focusing on &#x201C;what actually counts as a toilet&#x201D; (yes, that really is a difficult thing to define), go back to your notes about who this is important to, why, and what they could do about it. You&#x2019;ll also find that a seemingly-simple initial question will generate a whole bunch of other questions you&#x2019;ll need to answer too (questions are like bunnies: they breed). Again, use your plan as a guide, and accept that there will usually be several parts to each project. You&#x2019;ll also find that several of these questions could be answered without using available data (e.g. you might be able to get a strong enough &#x2018;signal&#x2019; from surveys that an action is worth further investigation): that too is a useful thing to know.</p>
+<p>Plans rarely survive contact with your datasets, users etc. They&#x2019;re not about forcing you to produce things a specific way: they&#x2019;re there to make you think about what you&#x2019;re doing, and stop you from making newbie mistakes like fitting the questions to the data you have available or falling into data rabbitholes. You might want to go down at least one of those rabbitholes: a fascinating piece of data that you want to explore for fun, or a bunch of other questions that look like really fun things to answer; they&#x2019;re not necessarily bad things, and can be really valuable in themselves, but you do need to be aware that you&#x2019;ve done this, and of any impacts it might have on your original goals. Planning might seem a distraction from getting on with the data analysis, but it does help to have a guidestar, something to go back to and think &#x201C;is this valuable to the people that I&#x2019;m trying to help here?&#x201D;.</p>
+<h2 id="some-short-exercises">Some short exercises</h2>
+<p>We ran 3 small exercises in class, to get people thinking about project design. Each of these was time-limited to 3 minutes, to make people concentrate hard on what might be needed, and to hit issues quickly so they could be discussed in class before students tried this at home.</p>
+<p>Exercise 1: Ask some interesting questions.Either your own questions, or pick an existing question and think about how it might have been formed.</p>
+<p>Questions that data might help with<br> Stories you want to tell with data<br> Datasets you&#x2019;d like to explore (where &#x2018;datasets&#x2019; could be anything - tables, images, maps, sensor feeds, etc)<br> Competition questions: Kaggle, DrivenData<br> A data science project that interested you</p>
+<p>Exercise 2: Get the data.Pick one of your questions: List the ideal data you need to answer it</p>
+<p>List the data that&#x2019;s (probably) available<br> Think about what you&#x2019;ll do if the data you need isn&#x2019;t available:</p>
+<p>What compromises could you make<br> Where would you look for more data<br> Are there proxies (other datasets that tell you something about your question) Are there ways to get more data (surveys, crowdsourcing etc)</p>
+<p>Exercise 3: Design your communications.List the types of people you&#x2019;d want to show your results to.</p>
+<p>How do you want them to change the world? Can they take actions, can they change opinions etc<br> Describe the types of outputs that might be persuasive to them - visuals, text, numbers, stories, art... be as wild with this as you want</p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="data-science-is-a-process.html" class="navigation navigation-prev " aria-label="Previous page: Data Science is a Process">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="../tool-install-instructions.html" class="navigation navigation-next " aria-label="Next page: Tool install instructions">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"Writing a problem statement","level":"2.3","depth":1,"next":{"title":"Tool install instructions","level":"12.1","depth":1,"path":"tool-install-instructions.md","ref":"tool-install-instructions.md","articles":[]},"previous":{"title":"Data Science is a Process","level":"2.2","depth":1,"path":"designing-and-scoping-a-data-science-project/data-science-is-a-process.md","ref":"designing-and-scoping-a-data-science-project/data-science-is-a-process.md","articles":[]},"dir":"ltr"},"config":{"plugins":["include-codeblock","echarts"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"search":{},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"echarts":{},"include-codeblock":{"check":false,"edit":false,"fixlang":false,"lang":"","template":"default","theme":"chrome","unindent":false},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"chart":{}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{},"title":"Data Science for Difficult Places","gitbook":">= 3.0.0"},"file":{"path":"designing-and-scoping-a-data-science-project/writing-a-problem-statement.md","mtime":"2017-03-05T22:22:34.000Z","type":"markdown"},"gitbook":{"version":"3.2.2","time":"2017-03-05T22:24:00.743Z"},"basePath":"..","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="../gitbook/gitbook.js"></script>
+    <script src="../gitbook/theme.js"></script>
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="../gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
