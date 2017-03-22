@@ -42,27 +42,28 @@ Plans rarely survive contact with your datasets, users etc. They’re not about 
 
 ## Some short exercises
 
-We ran 3 small exercises in class, to get people thinking about project design. Each of these was time-limited to 3 minutes, to make people concentrate hard on what might be needed, and to hit issues quickly so they could be discussed in class before students tried this at home.
+We ran three small exercises in class, to get people thinking about project design. Each of these was time-limited to 3 minutes, to make people concentrate hard on what might be needed, and to hit issues quickly so they could be discussed in class before students tried this at home.
 
-Exercise 1: Ask some interesting questions.Either your own questions, or pick an existing question and think about how it might have been formed.
+**Exercise 1**: Ask some interesting questions. Either your own questions, or pick an existing question and think about how it might have been formed.
 
-Questions that data might help with  
- Stories you want to tell with data  
- Datasets you’d like to explore \(where ‘datasets’ could be anything - tables, images, maps, sensor feeds, etc\)  
- Competition questions: Kaggle, DrivenData  
- A data science project that interested you
+* Questions that data might help with
+* Stories you want to tell with data
+* Datasets you’d like to explore \(where ‘datasets’ could be anything - tables, images, maps, sensor feeds, etc\)
+* Competition questions: Kaggle, DrivenData
+* A data science project that interested you
 
-Exercise 2: Get the data.Pick one of your questions: List the ideal data you need to answer it
+**Exercise 2**: Get the data. Pick one of your questions: List the ideal data you need to answer it
 
-List the data that’s \(probably\) available  
- Think about what you’ll do if the data you need isn’t available:
+* List the data that’s \(probably\) available
+* Think about what you’ll do if the data you need isn’t available:
+* What compromises could you make
+* Where would you look for more data
+* Are there proxies \(other datasets that tell you something about your question\) Are there ways to get more data \(surveys, crowdsourcing etc\)
 
-What compromises could you make  
- Where would you look for more data  
- Are there proxies \(other datasets that tell you something about your question\) Are there ways to get more data \(surveys, crowdsourcing etc\)
+**Exercise 3**: Design your communications.List the types of people you’d want to show your results to.
 
-Exercise 3: Design your communications.List the types of people you’d want to show your results to.
+* How do you want them to change the world? Can they take actions, can they change opinions etc
+* Describe the types of outputs that might be persuasive to them - visuals, text, numbers, stories, art... be as wild with this as you want
 
-How do you want them to change the world? Can they take actions, can they change opinions etc  
- Describe the types of outputs that might be persuasive to them - visuals, text, numbers, stories, art... be as wild with this as you want
+
 
