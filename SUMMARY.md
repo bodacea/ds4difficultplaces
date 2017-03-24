@@ -17,6 +17,7 @@
 
 * [Data Science Tools](python-basics/data-science-tools.md)
 * [Getting set up](python-basics/getting-set-up.md)
+* [Ways to run python code](python-basics/ways-to-run-python-code.md)
 
 ## Acquiring Data
 
