@@ -1,0 +1,2 @@
+I've designed and taught 4 university courses in the past 3 years: ICT for development and social change \(DSC, with Eric from BlueRidge\), coding for DSC, data science coding for DSC and data science for DSC \(with Stefan from Sumall\). The overarching theme of each of them was better access and understanding of technical tools for people who work in areas where internet is unavailable or unreliable, and where proprietary tools are prohibitively expensive.
+

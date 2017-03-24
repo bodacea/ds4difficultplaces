@@ -5,6 +5,7 @@
 * [About this booklet](README.md)
 * [The sessions](about-this-booklet.md)
 * [Course materials](course-materials.md)
+* [About me](about-me.md)
 
 ## Designing and Scoping a Data Science Project
 
@@ -13,6 +14,9 @@
 * [Writing a problem statement](designing-and-scoping-a-data-science-project/writing-a-problem-statement.md)
 
 ## Python Basics
+
+* [Data Science Tools](python-basics/data-science-tools.md)
+* [Getting set up](python-basics/getting-set-up.md)
 
 ## Acquiring Data
 
