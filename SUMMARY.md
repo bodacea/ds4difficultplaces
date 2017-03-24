@@ -19,6 +19,7 @@
 * [Getting set up](python-basics/getting-set-up.md)
 * [Ways to run python code](python-basics/ways-to-run-python-code.md)
 * [Variables and Strings](python-basics/variables-and-strings.md)
+* [Collections](python-basics/collections.md)
 
 ## Acquiring Data
 
