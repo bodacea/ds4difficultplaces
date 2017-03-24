@@ -1,6 +1,6 @@
 # Getting Set Up
 
-The "tool install instructions" at the end of this booklet has detailed instructions on how to download and get set up in Python.  Do it. Come back when you're done. 
+The "tool install instructions" at the end of this booklet has detailed instructions on how to download and get set up in Python.  Do it. Come back when you're done.
 
 Let's test that. Open your terminal window and type
 
@@ -12,9 +12,9 @@ Let's test that. Open your terminal window and type
 
 `exit()`
 
-That was your first python code. You opened up the ipython interpreter, then typed in ‘commands’ \(‘1+2’\) and got back outputs \(‘3’\). Then, because we’re tidy, you closed the python interpreter again. 
+That was your first python code. You opened up the ipython interpreter, then typed in ‘commands’ \(‘1+2’\) and got back outputs \(‘3’\). Then, because we’re tidy, you closed the python interpreter again.
 
-We met several important things here. You met objects: “1” and “2.5” are numbers \(“1” is an integer number; “2.5” is a floating point number\); and “‘hello world!’” is a string. 
+We met several important things here. You met objects: “1” and “2.5” are numbers \(“1” is an integer number; “2.5” is a floating point number\); and “‘hello world!’” is a string.
 
 You also met an operator: “+” and a function: print\(\).
 
