@@ -20,6 +20,8 @@
 * [Ways to run python code](python-basics/ways-to-run-python-code.md)
 * [Variables and Strings](python-basics/variables-and-strings.md)
 * [Collections](python-basics/collections.md)
+* [Getting input from outside](python-basics/getting-input-from-outside.md)
+* [More help with Python](python-basics/more-help-with-python.md)
 
 ## Acquiring Data
 
