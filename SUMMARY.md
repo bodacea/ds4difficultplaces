@@ -25,6 +25,9 @@
 
 ## Acquiring Data
 
+* [Finding Development Data](acquiring-data/finding-development-data.md)
+* [Data Filetypes](acquiring-data/data-filetypes.md)
+
 ## Communicating Results
 
 ## Cleaning and Exploring Data
