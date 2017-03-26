@@ -36,6 +36,10 @@
 ## Communicating Results
 
 * [Communicating with Data](communicating-results/communicating-with-data.md)
+* [Really Common Visualisations](communicating-results/really-common-visualisations.md)
+* [Common Visualisation Tools](communicating-results/common-visualisation-tools.md)
+* [Matplotlib Exercise](communicating-results/matplotlib-exercise.md)
+* [Tableau Exercise](communicating-results/tableau-exercise.md)
 
 ## Cleaning and Exploring Data
 
