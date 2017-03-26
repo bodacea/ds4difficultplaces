@@ -35,6 +35,8 @@
 
 ## Communicating Results
 
+* [Communicating with Data](communicating-results/communicating-with-data.md)
+
 ## Cleaning and Exploring Data
 
 ## Machine Learning
