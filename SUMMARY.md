@@ -29,6 +29,9 @@
 * [Data Filetypes](acquiring-data/data-filetypes.md)
 * [Using an API](acquiring-data/using-an-api.md)
 * [PDF Scrapers](acquiring-data/pdf-scrapers.md)
+* [Web Scrapers](acquiring-data/web-scrapers.md)
+* [Getting Data Ready for Science](acquiring-data/getting-data-ready-for-science.md)
+* [Exercises](acquiring-data/exercises.md)
 
 ## Communicating Results
 
