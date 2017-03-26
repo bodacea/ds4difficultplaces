@@ -28,6 +28,7 @@
 * [Finding Development Data](acquiring-data/finding-development-data.md)
 * [Data Filetypes](acquiring-data/data-filetypes.md)
 * [Using an API](acquiring-data/using-an-api.md)
+* [PDF Scrapers](acquiring-data/pdf-scrapers.md)
 
 ## Communicating Results
 
