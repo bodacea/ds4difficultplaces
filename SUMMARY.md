@@ -40,6 +40,8 @@
 * [Common Visualisation Tools](communicating-results/common-visualisation-tools.md)
 * [Matplotlib Exercise](communicating-results/matplotlib-exercise.md)
 * [Tableau Exercise](communicating-results/tableau-exercise.md)
+* [D3 and Beyond](communicating-results/d3-and-beyond.md)
+* [Exercises](communicating-results/exercises.md)
 
 ## Cleaning and Exploring Data
 
