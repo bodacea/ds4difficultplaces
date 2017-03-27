@@ -45,6 +45,8 @@
 
 ## Cleaning and Exploring Data
 
+* [Data Cleaning](cleaning-and-exploring-data/data-cleaning.md)
+
 ## Machine Learning
 
 ## Text Data
