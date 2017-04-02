@@ -49,6 +49,8 @@
 * [Cleaning with Python](cleaning-and-exploring-data/cleaning-with-python.md)
 * [Cleaning With OpenRefine](cleaning-and-exploring-data/cleaning-with-openrefine.md)
 * [Exploring with Pandas](cleaning-and-exploring-data/exploring-with-pandas.md)
+* [The Seaborn Library](cleaning-and-exploring-data/the-seaborn-library.md)
+* [Exploring with R](cleaning-and-exploring-data/exploring-with-r.md)
 
 ## Machine Learning
 
