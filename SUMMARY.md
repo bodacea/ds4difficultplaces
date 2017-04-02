@@ -47,7 +47,7 @@
 
 * [Data Cleaning](cleaning-and-exploring-data/data-cleaning.md)
 * [Cleaning with Python](cleaning-and-exploring-data/cleaning-with-python.md)
-* Cleaning With OpenRefine
+* [Cleaning With OpenRefine](cleaning-and-exploring-data/cleaning-with-openrefine.md)
 
 ## Machine Learning
 
