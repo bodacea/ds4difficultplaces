@@ -56,6 +56,7 @@
 
 * [Defining Machine Learning](machine-learning/defining-machine-learning.md)
 * [Select a Model](machine-learning/select-a-model.md)
+* [Model Validation](machine-learning/model-validation.md)
 
 ## Text Data
 
