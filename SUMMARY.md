@@ -3,7 +3,7 @@
 ## Introduction
 
 * [About this booklet](README.md)
-* [The sessions](about-this-booklet.md)
+* [Course Structure](about-this-booklet.md)
 * [Course materials](course-materials.md)
 * [About me](about-me.md)
 
@@ -53,6 +53,9 @@
 * [Exploring with R](cleaning-and-exploring-data/exploring-with-r.md)
 
 ## Machine Learning
+
+* [Defining Machine Learning](machine-learning/defining-machine-learning.md)
+* Select a Model
 
 ## Text Data
 

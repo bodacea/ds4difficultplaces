@@ -1,4 +1,4 @@
-# About this Booklet
+# About this GitBook
 
 This is the book of a weekly onsite/remote course on data science techniques, designed to get people who aren’t coders up to speed and trying some of those techniques out for themselves.
 
