@@ -55,7 +55,7 @@
 ## Machine Learning
 
 * [Defining Machine Learning](machine-learning/defining-machine-learning.md)
-* Select a Model
+* [Select a Model](machine-learning/select-a-model.md)
 
 ## Text Data
 
