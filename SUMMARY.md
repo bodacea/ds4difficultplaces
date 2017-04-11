@@ -60,6 +60,9 @@
 
 ## Text Data
 
+* [Handling Text Data](text-data/handling-text-data.md)
+* [Reading Text Data](text-data/reading-text-data.md)
+
 ## Geospatial Data
 
 ## Learning Relationships
