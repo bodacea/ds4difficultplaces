@@ -62,6 +62,7 @@
 
 * [Handling Text Data](text-data/handling-text-data.md)
 * [Reading Text Data](text-data/reading-text-data.md)
+* [Machine Learning with Text Data](text-data/machine-learning-with-text-data.md)
 
 ## Geospatial Data
 
